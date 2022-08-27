@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 2e106d46bc8541443af14f04ce15c516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5860445044414362732
+    second: LobbyBackGround_0
+  - first:
+      213: 6409569809831002919
+    second: LobbyBackGround_1
+  - first:
+      213: -8104621475210918655
+    second: LobbyBackGround_2
+  - first:
+      213: -699450399095262506
+    second: LobbyBackGround_3
+  - first:
+      213: -5451523748360088927
+    second: LobbyBackGround_4
+  - first:
+      213: -7414642927710241338
+    second: LobbyBackGround_5
+  - first:
+      213: -254669144651159702
+    second: LobbyBackGround_6
+  - first:
+      213: 527283311478977328
+    second: LobbyBackGround_7
+  - first:
+      213: 1356769159512338568
+    second: LobbyBackGround_8
+  - first:
+      213: 5344216197440094665
+    second: LobbyBackGround_9
+  - first:
+      213: 2241655003625560539
+    second: LobbyBackGround_10
+  - first:
+      213: -7431705110560381865
+    second: LobbyBackGround_11
+  - first:
+      213: 7134259901715067077
+    second: LobbyBackGround_12
+  - first:
+      213: 558104474635273531
+    second: LobbyBackGround_13
+  - first:
+      213: 928580009575322270
+    second: LobbyBackGround_14
+  - first:
+      213: 3019694828671018362
+    second: LobbyBackGround_15
+  - first:
+      213: -5360466545298787140
+    second: LobbyBackGround_16
+  - first:
+      213: -87194784576608451
+    second: LobbyBackGround_17
+  - first:
+      213: -8253237163454226349
+    second: LobbyBackGround_18
+  - first:
+      213: 9136085517529408634
+    second: LobbyBackGround_19
+  - first:
+      213: -6869445228192115345
+    second: LobbyBackGround_20
+  - first:
+      213: 7016977892963560960
+    second: LobbyBackGround_21
+  - first:
+      213: 2670895861028103052
+    second: LobbyBackGround_22
+  - first:
+      213: -884969898649102392
+    second: LobbyBackGround_23
+  - first:
+      213: -6748461222467440495
+    second: LobbyBackGround_24
+  - first:
+      213: 852510087637950535
+    second: LobbyBackGround_25
+  - first:
+      213: 8898388665330872324
+    second: LobbyBackGround_26
+  - first:
+      213: 7051913725639171953
+    second: LobbyBackGround_27
+  - first:
+      213: -406050394003100134
+    second: LobbyBackGround_28
+  - first:
+      213: -3232248901188084990
+    second: LobbyBackGround_29
+  - first:
+      213: -2761433245539594518
+    second: LobbyBackGround_30
+  - first:
+      213: 8396597095635391317
+    second: LobbyBackGround_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LobbyBackGround_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f4c0e11c490554a9a557ff3b8c86c0
+      internalID: 5860445044414362732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_1
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e014947939a09a43b768c60a7f82f6b
+      internalID: 6409569809831002919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_2
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f322efb12b50c9f4e857b51cd787a08d
+      internalID: -8104621475210918655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_3
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3f132fdf5f244da57722646243d21
+      internalID: -699450399095262506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_4
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3682ae3112bc0444ae81353e4e6903c
+      internalID: -5451523748360088927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_5
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54198bb23255d684abdb6b0bfcf8d584
+      internalID: -7414642927710241338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_6
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae4b070b80eac84ebb11c936af037a9
+      internalID: -254669144651159702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_7
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 11970
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc543d6b00bc9449a3d90ecaa39290
+      internalID: 527283311478977328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17364e4a02812949a72d6e48cc9accd
+      internalID: 1356769159512338568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_9
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427d04c72612ae34c8e58704a5f06e46
+      internalID: 5344216197440094665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_10
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37495dc196ec35d4d985f0d744319084
+      internalID: 2241655003625560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_11
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aecc7d3e5b9c5e4f840fd333f5c8f41
+      internalID: -7431705110560381865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_12
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bb54ad4b17994896e6d03e400d347
+      internalID: 7134259901715067077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_13
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b75bc31aa8244468d5772380a8e7b9
+      internalID: 558104474635273531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_14
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637e97d6a8f48f469815c360158d58a
+      internalID: 928580009575322270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_15
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 7980
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b9fd2c98abcc468cce3ceee0e81f1
+      internalID: 3019694828671018362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01131f3e14c63b45a857059676f1eab
+      internalID: -5360466545298787140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_17
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c712f8145f70d64e9b2f9549bad9091
+      internalID: -87194784576608451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_18
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683b4898be5d394790744d1388c2f32
+      internalID: -8253237163454226349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_19
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f3eddc5bc9aa4783816db55ce2350
+      internalID: 9136085517529408634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_20
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2fb3026dcd0648965395adbd40b0f
+      internalID: -6869445228192115345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_21
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44fd9642983f8142aff9464d2a61cce
+      internalID: 7016977892963560960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_22
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33d4f1fd422bf4691e9b3d4593a089
+      internalID: 2670895861028103052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_23
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 3990
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31911b9c8f92a148a15e1ce00aae8ec
+      internalID: -884969898649102392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247756ee7af3f2a4795825e8db17acbf
+      internalID: -6748461222467440495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_25
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a523f0ddc960a674e9a37680aec886f5
+      internalID: 852510087637950535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_26
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2a8928d21eed47900b5baa973f694
+      internalID: 8898388665330872324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_27
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61facaf52d0ba784396684a3d5256cb3
+      internalID: 7051913725639171953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_28
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7144c03afc07cba49b2d2ba9d913ebf0
+      internalID: -406050394003100134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_29
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be63b1c892082b40aa24104567cc0f8
+      internalID: -3232248901188084990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_30
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8924acc74e420e24c9779f2af03233e3
+      internalID: -2761433245539594518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbyBackGround_31
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 0
+        width: 1900
+        height: 3990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9498f03126f06f34eae79b71a35e25cd
+      internalID: 8396597095635391317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
